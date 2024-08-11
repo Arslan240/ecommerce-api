@@ -36,9 +36,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/auth/register",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/auth/register",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -63,9 +63,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/auth/login",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/auth/login",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -93,9 +93,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/auth/logout",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/auth/logout",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -134,9 +134,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/users",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"users"
@@ -151,9 +151,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users/66b2b4344dda8f3d96df73cf",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/users/66b2b4344dda8f3d96df73cf",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"users",
@@ -169,9 +169,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/users/showMe",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/users/showMe",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"users",
@@ -196,9 +196,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/users/updateUser",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/users/updateUser",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"users",
@@ -223,9 +223,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/users/updateUserPassword",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/users/updateUserPassword",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"users",
@@ -255,9 +255,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/products",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products"
@@ -284,9 +284,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/products",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products"
@@ -301,9 +301,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/66b8873bd946d8020c9a4ba5",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products/66b8873bd946d8020c9a4ba5",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products",
@@ -328,9 +328,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/products/66b6a61d4a5585e703d6412e",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products/66b6a61d4a5585e703d6412e",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products",
@@ -346,9 +346,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/66b6a6344a5585e703d64132",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products/66b6a6344a5585e703d64132",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products",
@@ -364,9 +364,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/products/66b6a6344a5585e703d64132/reviews",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products/66b6a6344a5585e703d64132/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products",
@@ -393,9 +393,9 @@
 							]
 						},
 						"url": {
-							"raw": "http://localhost:5000/products/uploadImage",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/products/uploadImage",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"products",
@@ -416,9 +416,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"reviews"
@@ -433,9 +433,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews/66b88761d946d8020c9a4ba9",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/reviews/66b88761d946d8020c9a4ba9",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -460,9 +460,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/reviews/66b8a851ec3467a8cba06b09",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/reviews/66b8a851ec3467a8cba06b09",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -478,9 +478,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/reviews/66b8a851ec3467a8cba06b09",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/reviews/66b8a851ec3467a8cba06b09",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -505,9 +505,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/reviews",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/reviews",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"reviews"
@@ -527,9 +527,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/orders",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"orders"
@@ -544,9 +544,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders/id",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/orders/id",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -562,9 +562,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/orders/showMyOrders",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/orders/showMyOrders",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -589,9 +589,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/orders/id",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/orders/id",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -616,9 +616,9 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:5000/orders",
+							"raw": "https://ecommerce-api-c4y7.onrender.com/orders",
 							"host": [
-								"http://localhost:5000"
+								"https://ecommerce-api-c4y7.onrender.com"
 							],
 							"path": [
 								"orders"
